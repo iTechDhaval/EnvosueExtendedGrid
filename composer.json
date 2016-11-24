@@ -1,0 +1,19 @@
+{
+  "name": "envosue/extendedgrid",
+  "license": "OSL-3.0",
+  "type": "magento-module",
+  "description": "Magento Order Extended Grid",
+  "homepage": "https://github.com/iTechDhaval/EnvosueExtendedGrid",
+  "require": {
+    "php": ">=5.3",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Dhaval Patel",
+      "email": "tech.dhaval@gmail.com",
+      "role": "Author/Maintainer"
+    }
+  ]
+}
+

@@ -1,0 +1,3 @@
+app/code/local/Envosue/ExtendedGrid/									app/code/local/Envosue/ExtendedGrid/
+app/etc/modules/Envosue_ExtendedGrid.xml								app/etc/modules/Envosue_ExtendedGrid.xml
+app/design/adminhtml/default/default/layout/envosue/extendedgrid.xml	app/design/adminhtml/default/default/layout/envosue/extendedgrid.xml
